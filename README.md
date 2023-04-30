@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/developedbyvk/Huddle-frontend-mentor-landing-page-challenge]
-- Live Site URL: []
+- Live Site URL: [https://developedbyvk.github.io/Huddle-frontend-mentor-landing-page-challenge]
 
 ## My process
 
