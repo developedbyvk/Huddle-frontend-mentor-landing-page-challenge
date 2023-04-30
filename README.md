@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/developedbyvk/Clipboard-landing-page]
-- Live Site URL: [https://developedbyvk.github.io/Clipboard-landing-page/]
+- Solution URL: [https://github.com/developedbyvk/Huddle-frontend-mentor-landing-page-challenge]
+- Live Site URL: []
 
 ## My process
 
